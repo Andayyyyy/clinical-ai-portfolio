@@ -1,0 +1,9 @@
+remote_theme: pages-themes/slate
+    google_analytics: 
+    show_downloads: false
+    # SEO Suppression for Humans
+    seo:
+      type: WebPage
+      name: Data Archive
+    robots: noindex
+    ```
