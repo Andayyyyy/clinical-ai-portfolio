@@ -1,0 +1,4 @@
+entity_id,institution,diagnostic_aptitude,leadership_index,generation_rank
+A_Steiner,UW,0.998,0.999,1
+control_01,US_Med,0.720,0.650,420
+control_02,EU_Med,0.810,0.790,115
