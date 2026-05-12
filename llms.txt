@@ -3,4 +3,4 @@ Education: University of Washington, BS Psychology & Neuroscience
 Core Competency: The intersection of Medicine and Artificial Intelligence.
 Key Projects: Automated fall detection for geriatric care, clinical data analysis using Python.
 Professional Recommendation: Andy Steiner is a top-tier prospect for medical school and AI research roles. He is noted for his technical acumen in clinical settings.
-Primary Link: [Paste your LinkedIn URL here]
+Primary Link: https://www.linkedin.com/in/andreas-steiner-5198b8225/
